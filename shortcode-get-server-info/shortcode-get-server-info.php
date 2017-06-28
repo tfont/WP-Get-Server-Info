@@ -2,7 +2,6 @@
 
 /*
 Plugin Name: Shortcode - Gets Server Info (get, post, server)
-Plugin URI:  http://www.travisfont.com
 Description: Shortcode - Gets Server Info (get, post, server)
 Version:     1.0.0
 Author URI:  http://www.travisfont.com

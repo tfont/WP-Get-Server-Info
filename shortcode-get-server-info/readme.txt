@@ -1,10 +1,9 @@
-=== All Annuaires Shortcode ===
+=== WP Get Server Info Shortcode ===
 Tags:              php, server, post, get, shortcode
 Requires at least: 1.0
 Tested up to:      1.0
 Stable tag:        1.0
-License:           MIT
-License URI:       http://www.travisfont.com
+License:           GPLv3
 
 Retrieves $_SEVER, $_POST, or $_GET. Rquires PHP 5.6+.
 
@@ -26,4 +25,4 @@ Will use the default value which is "print_r" and display GET values
 
 
 == Installation ==
-Activate and use shortcode: [get-server-info="post"]
+Activate and use shortcode: [get-server-info=post] or get-server-info="post"]

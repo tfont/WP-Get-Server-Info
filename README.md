@@ -1,4 +1,4 @@
-# WP-Get-Server-Info
+# WP Get Server Info
 A simple WordPress Shortcode to retrieve server methods information: Get, Post, or Server. Retrieves $_SEVER, $_POST, or $_GET.
 
 *Rquires PHP 5.6+*
